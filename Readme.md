@@ -6,12 +6,12 @@
  
 
 ### ORGANIZACIÓN DE MÓDULO 
- - [Sesión 1](Sesion 01): Introducción a Python 
- - [Sesión 2](Sesión 02): Herramientas de Data Scientist
- - [Sesión 3](Sesión 03): NumPy para Data Science
- - [Sesión 4](Sesión 04): Diccionarios, JSONs y Análisis Descriptivo de Datos.
- - [Sesión 5](Sesion 05): Procesamiento y transformación de datos. 
- - [Sesión 6](Sesión 06): Visualización de datos con MatPlotLib
- - [Sesión 7](Sesion 07): Regresión Lineal con Python 
- - [Sesión 8](Sesion 08): Clasificación con Python. Fundamentos de Machine Learning
+ - [Sesión 1](Sesion-01): Introducción a Python 
+ - [Sesión 2](Sesion-02): Herramientas de Data Scientist
+ - [Sesión 3](Sesion-03): NumPy para Data Science
+ - [Sesión 4](Sesion-04): Diccionarios, JSONs y Análisis Descriptivo de Datos.
+ - [Sesión 5](Sesion-05): Procesamiento y transformación de datos. 
+ - [Sesión 6](Sesion-06): Visualización de datos con MatPlotLib
+ - [Sesión 7](Sesion-07): Regresión Lineal con Python 
+ - [Sesión 8](Sesion-08): Clasificación con Python. Fundamentos de Machine Learning
 
